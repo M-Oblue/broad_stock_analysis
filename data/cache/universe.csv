@@ -1,0 +1,501 @@
+symbol,company_name,nse_industry,series,isin,yf_ticker,is_financial_sector,is_trade_to_trade,fetched_at,source
+360ONE,360 ONE WAM Ltd.,Financial Services,EQ,INE466L01038,360ONE.NS,True,False,2026-09-11,nse_live
+3MINDIA,3M India Ltd.,Diversified,EQ,INE470A01017,3MINDIA.NS,False,False,2026-09-11,nse_live
+AADHARHFC,Aadhar Housing Finance Ltd.,Financial Services,EQ,INE883F01010,AADHARHFC.NS,True,False,2026-09-11,nse_live
+AARTIIND,Aarti Industries Ltd.,Chemicals,EQ,INE769A01020,AARTIIND.NS,False,False,2026-09-11,nse_live
+AAVAS,Aavas Financiers Ltd.,Financial Services,EQ,INE216P01012,AAVAS.NS,True,False,2026-09-11,nse_live
+ABB,ABB India Ltd.,Capital Goods,EQ,INE117A01022,ABB.NS,False,False,2026-09-11,nse_live
+ABBOTINDIA,Abbott India Ltd.,Healthcare,EQ,INE358A01014,ABBOTINDIA.NS,False,False,2026-09-11,nse_live
+ABCAPITAL,Aditya Birla Capital Ltd.,Financial Services,EQ,INE674K01013,ABCAPITAL.NS,True,False,2026-09-11,nse_live
+ABDL,Allied Blenders and Distillers Ltd.,Fast Moving Consumer Goods,EQ,INE552Z01027,ABDL.NS,False,False,2026-09-11,nse_live
+ABFRL,Aditya Birla Fashion and Retail Ltd.,Consumer Services,EQ,INE647O01011,ABFRL.NS,False,False,2026-09-11,nse_live
+ABLBL,Aditya Birla Lifestyle Brands Ltd.,Consumer Services,EQ,INE14LE01019,ABLBL.NS,False,False,2026-09-11,nse_live
+ABREL,Aditya Birla Real Estate Ltd.,Realty,EQ,INE055A01016,ABREL.NS,False,False,2026-09-11,nse_live
+ABSLAMC,Aditya Birla Sun Life AMC Ltd.,Financial Services,EQ,INE404A01024,ABSLAMC.NS,True,False,2026-09-11,nse_live
+ACC,ACC Ltd.,Construction Materials,EQ,INE012A01025,ACC.NS,False,False,2026-09-11,nse_live
+ACE,Action Construction Equipment Ltd.,Capital Goods,EQ,INE731H01025,ACE.NS,False,False,2026-09-11,nse_live
+ACMESOLAR,ACME Solar Holdings Ltd.,Power,EQ,INE622W01025,ACMESOLAR.NS,False,False,2026-09-11,nse_live
+ACUTAAS,Acutaas Chemicals Ltd.,Healthcare,EQ,INE00FF01025,ACUTAAS.NS,False,False,2026-09-11,nse_live
+ADANIENSOL,Adani Energy Solutions Ltd.,Power,EQ,INE931S01010,ADANIENSOL.NS,False,False,2026-09-11,nse_live
+ADANIENT,Adani Enterprises Ltd.,Metals & Mining,EQ,INE423A01024,ADANIENT.NS,False,False,2026-09-11,nse_live
+ADANIGREEN,Adani Green Energy Ltd.,Power,EQ,INE364U01010,ADANIGREEN.NS,False,False,2026-09-11,nse_live
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,Services,EQ,INE742F01042,ADANIPORTS.NS,False,False,2026-09-11,nse_live
+ADANIPOWER,Adani Power Ltd.,Power,EQ,INE814H01029,ADANIPOWER.NS,False,False,2026-09-11,nse_live
+AEGISLOG,Aegis Logistics Ltd.,Oil Gas & Consumable Fuels,EQ,INE208C01025,AEGISLOG.NS,False,False,2026-09-11,nse_live
+AEGISVOPAK,Aegis Vopak Terminals Ltd.,Oil Gas & Consumable Fuels,EQ,INE0INX01018,AEGISVOPAK.NS,False,False,2026-09-11,nse_live
+AFCONS,Afcons Infrastructure Ltd.,Construction,EQ,INE101I01011,AFCONS.NS,False,False,2026-09-11,nse_live
+AFFLE,Affle 3i Ltd.,Information Technology,EQ,INE00WC01027,AFFLE.NS,False,False,2026-09-11,nse_live
+AIAENG,AIA Engineering Ltd.,Capital Goods,EQ,INE212H01026,AIAENG.NS,False,False,2026-09-11,nse_live
+AIIL,Authum Investment & Infrastructure Ltd.,Financial Services,EQ,INE206F01022,AIIL.NS,True,False,2026-09-11,nse_live
+AJANTPHARM,Ajanta Pharmaceuticals Ltd.,Healthcare,EQ,INE031B01049,AJANTPHARM.NS,False,False,2026-09-11,nse_live
+ALKEM,Alkem Laboratories Ltd.,Healthcare,EQ,INE540L01014,ALKEM.NS,False,False,2026-09-11,nse_live
+AMBER,Amber Enterprises India Ltd.,Consumer Durables,EQ,INE371P01015,AMBER.NS,False,False,2026-09-11,nse_live
+AMBUJACEM,Ambuja Cements Ltd.,Construction Materials,EQ,INE079A01024,AMBUJACEM.NS,False,False,2026-09-11,nse_live
+ANANDRATHI,Anand Rathi Wealth Ltd.,Financial Services,EQ,INE463V01026,ANANDRATHI.NS,True,False,2026-09-11,nse_live
+ANANTRAJ,Anant Raj Ltd.,Realty,EQ,INE242C01024,ANANTRAJ.NS,False,False,2026-09-11,nse_live
+ANGELONE,Angel One Ltd.,Financial Services,EQ,INE732I01021,ANGELONE.NS,True,False,2026-09-11,nse_live
+ANTHEM,Anthem Biosciences Ltd.,Healthcare,EQ,INE0CZ201020,ANTHEM.NS,False,False,2026-09-11,nse_live
+ANURAS,Anupam Rasayan India Ltd.,Chemicals,EQ,INE930P01018,ANURAS.NS,False,False,2026-09-11,nse_live
+APARINDS,Apar Industries Ltd.,Capital Goods,EQ,INE372A01015,APARINDS.NS,False,False,2026-09-11,nse_live
+APLAPOLLO,APL Apollo Tubes Ltd.,Capital Goods,EQ,INE702C01027,APLAPOLLO.NS,False,False,2026-09-11,nse_live
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,Healthcare,EQ,INE437A01024,APOLLOHOSP.NS,False,False,2026-09-11,nse_live
+APOLLOTYRE,Apollo Tyres Ltd.,Automobile and Auto Components,EQ,INE438A01022,APOLLOTYRE.NS,False,False,2026-09-11,nse_live
+APTUS,Aptus Value Housing Finance India Ltd.,Financial Services,EQ,INE852O01025,APTUS.NS,True,False,2026-09-11,nse_live
+ARE&M,Amara Raja Energy & Mobility Ltd.,Automobile and Auto Components,EQ,INE885A01032,ARE&M.NS,False,False,2026-09-11,nse_live
+ASAHIINDIA,Asahi India Glass Ltd.,Automobile and Auto Components,EQ,INE439A01020,ASAHIINDIA.NS,False,False,2026-09-11,nse_live
+ASHOKLEY,Ashok Leyland Ltd.,Capital Goods,EQ,INE208A01029,ASHOKLEY.NS,False,False,2026-09-11,nse_live
+ASIANPAINT,Asian Paints Ltd.,Consumer Durables,EQ,INE021A01026,ASIANPAINT.NS,False,False,2026-09-11,nse_live
+ASTERDM,Aster DM Quality Care Ltd.,Healthcare,EQ,INE914M01019,ASTERDM.NS,False,False,2026-09-11,nse_live
+ASTRAL,Astral Ltd.,Capital Goods,EQ,INE006I01046,ASTRAL.NS,False,False,2026-09-11,nse_live
+ATGL,Adani Total Gas Ltd.,Oil Gas & Consumable Fuels,EQ,INE399L01023,ATGL.NS,False,False,2026-09-11,nse_live
+ATHERENERG,Ather Energy Ltd.,Automobile and Auto Components,EQ,INE0LEZ01016,ATHERENERG.NS,False,False,2026-09-11,nse_live
+ATUL,Atul Ltd.,Chemicals,EQ,INE100A01010,ATUL.NS,False,False,2026-09-11,nse_live
+AUBANK,AU Small Finance Bank Ltd.,Financial Services,EQ,INE949L01017,AUBANK.NS,True,False,2026-09-11,nse_live
+AUROPHARMA,Aurobindo Pharma Ltd.,Healthcare,EQ,INE406A01037,AUROPHARMA.NS,False,False,2026-09-11,nse_live
+AWL,AWL Agri Business Ltd.,Fast Moving Consumer Goods,EQ,INE699H01024,AWL.NS,False,False,2026-09-11,nse_live
+AXISBANK,Axis Bank Ltd.,Financial Services,EQ,INE238A01034,AXISBANK.NS,True,False,2026-09-11,nse_live
+BAJAJ-AUTO,Bajaj Auto Ltd.,Automobile and Auto Components,EQ,INE917I01010,BAJAJ-AUTO.NS,False,False,2026-09-11,nse_live
+BAJAJFINSV,Bajaj Finserv Ltd.,Financial Services,EQ,INE918I01026,BAJAJFINSV.NS,True,False,2026-09-11,nse_live
+BAJAJHFL,Bajaj Housing Finance Ltd.,Financial Services,EQ,INE377Y01014,BAJAJHFL.NS,True,False,2026-09-11,nse_live
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,Financial Services,EQ,INE118A01012,BAJAJHLDNG.NS,True,False,2026-09-11,nse_live
+BAJFINANCE,Bajaj Finance Ltd.,Financial Services,EQ,INE296A01032,BAJFINANCE.NS,True,False,2026-09-11,nse_live
+BALKRISIND,Balkrishna Industries Ltd.,Automobile and Auto Components,EQ,INE787D01026,BALKRISIND.NS,False,False,2026-09-11,nse_live
+BALRAMCHIN,Balrampur Chini Mills Ltd.,Fast Moving Consumer Goods,EQ,INE119A01028,BALRAMCHIN.NS,False,False,2026-09-11,nse_live
+BANDHANBNK,Bandhan Bank Ltd.,Financial Services,EQ,INE545U01014,BANDHANBNK.NS,True,False,2026-09-11,nse_live
+BANKBARODA,Bank of Baroda,Financial Services,EQ,INE028A01039,BANKBARODA.NS,True,False,2026-09-11,nse_live
+BANKINDIA,Bank of India,Financial Services,EQ,INE084A01016,BANKINDIA.NS,True,False,2026-09-11,nse_live
+BATAINDIA,Bata India Ltd.,Consumer Durables,EQ,INE176A01028,BATAINDIA.NS,False,False,2026-09-11,nse_live
+BAYERCROP,Bayer Cropscience Ltd.,Chemicals,EQ,INE462A01022,BAYERCROP.NS,False,False,2026-09-11,nse_live
+BBTC,Bombay Burmah Trading Corporation Ltd.,Fast Moving Consumer Goods,EQ,INE050A01025,BBTC.NS,False,False,2026-09-11,nse_live
+BDL,Bharat Dynamics Ltd.,Capital Goods,EQ,INE171Z01026,BDL.NS,False,False,2026-09-11,nse_live
+BEL,Bharat Electronics Ltd.,Capital Goods,EQ,INE263A01024,BEL.NS,False,False,2026-09-11,nse_live
+BELRISE,Belrise Industries Ltd.,Automobile and Auto Components,EQ,INE894V01022,BELRISE.NS,False,False,2026-09-11,nse_live
+BEML,BEML Ltd.,Capital Goods,EQ,INE258A01024,BEML.NS,False,False,2026-09-11,nse_live
+BERGEPAINT,Berger Paints India Ltd.,Consumer Durables,EQ,INE463A01038,BERGEPAINT.NS,False,False,2026-09-11,nse_live
+BHARATFORG,Bharat Forge Ltd.,Automobile and Auto Components,EQ,INE465A01025,BHARATFORG.NS,False,False,2026-09-11,nse_live
+BHARTIARTL,Bharti Airtel Ltd.,Telecommunication,EQ,INE397D01024,BHARTIARTL.NS,False,False,2026-09-11,nse_live
+BHARTIHEXA,Bharti Hexacom Ltd.,Telecommunication,EQ,INE343G01021,BHARTIHEXA.NS,False,False,2026-09-11,nse_live
+BHEL,Bharat Heavy Electricals Ltd.,Capital Goods,EQ,INE257A01026,BHEL.NS,False,False,2026-09-11,nse_live
+BIKAJI,Bikaji Foods International Ltd.,Fast Moving Consumer Goods,EQ,INE00E101023,BIKAJI.NS,False,False,2026-09-11,nse_live
+BIOCON,Biocon Ltd.,Healthcare,EQ,INE376G01013,BIOCON.NS,False,False,2026-09-11,nse_live
+BLS,BLS International Services Ltd.,Consumer Services,EQ,INE153T01027,BLS.NS,False,False,2026-09-11,nse_live
+BLUEDART,Blue Dart Express Ltd.,Services,EQ,INE233B01017,BLUEDART.NS,False,False,2026-09-11,nse_live
+BLUEJET,Blue Jet Healthcare Ltd.,Healthcare,EQ,INE0KBH01020,BLUEJET.NS,False,False,2026-09-11,nse_live
+BLUESTARCO,Blue Star Ltd.,Consumer Durables,EQ,INE472A01039,BLUESTARCO.NS,False,False,2026-09-11,nse_live
+BOSCHLTD,Bosch Ltd.,Automobile and Auto Components,EQ,INE323A01026,BOSCHLTD.NS,False,False,2026-09-11,nse_live
+BPCL,Bharat Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,EQ,INE029A01011,BPCL.NS,False,False,2026-09-11,nse_live
+BRIGADE,Brigade Enterprises Ltd.,Realty,EQ,INE791I01019,BRIGADE.NS,False,False,2026-09-11,nse_live
+BRITANNIA,Britannia Industries Ltd.,Fast Moving Consumer Goods,EQ,INE216A01030,BRITANNIA.NS,False,False,2026-09-11,nse_live
+BSE,BSE Ltd.,Financial Services,EQ,INE118H01025,BSE.NS,True,False,2026-09-11,nse_live
+BSOFT,Birlasoft Ltd.,Information Technology,EQ,INE836A01035,BSOFT.NS,False,False,2026-09-11,nse_live
+CAMS,Computer Age Management Services Ltd.,Financial Services,EQ,INE596I01020,CAMS.NS,True,False,2026-09-11,nse_live
+CANBK,Canara Bank,Financial Services,EQ,INE476A01022,CANBK.NS,True,False,2026-09-11,nse_live
+CANFINHOME,Can Fin Homes Ltd.,Financial Services,EQ,INE477A01020,CANFINHOME.NS,True,False,2026-09-11,nse_live
+CANHLIFE,Canara HSBC Life Insurance Company Ltd.,Financial Services,EQ,INE01TY01017,CANHLIFE.NS,True,False,2026-09-11,nse_live
+CAPLIPOINT,Caplin Point Laboratories Ltd.,Healthcare,EQ,INE475E01026,CAPLIPOINT.NS,False,False,2026-09-11,nse_live
+CARBORUNIV,Carborundum Universal Ltd.,Capital Goods,EQ,INE120A01034,CARBORUNIV.NS,False,False,2026-09-11,nse_live
+CARTRADE,Cartrade Tech Ltd.,Consumer Services,EQ,INE290S01011,CARTRADE.NS,False,False,2026-09-11,nse_live
+CASTROLIND,Castrol India Ltd.,Oil Gas & Consumable Fuels,EQ,INE172A01027,CASTROLIND.NS,False,False,2026-09-11,nse_live
+CCL,CCL Products (I) Ltd.,Fast Moving Consumer Goods,EQ,INE421D01022,CCL.NS,False,False,2026-09-11,nse_live
+CDSL,Central Depository Services (India) Ltd.,Financial Services,EQ,INE736A01011,CDSL.NS,True,False,2026-09-11,nse_live
+CEATLTD,Ceat Ltd.,Automobile and Auto Components,EQ,INE482A01020,CEATLTD.NS,False,False,2026-09-11,nse_live
+CEMPRO,Cemindia Projects Ltd.,Construction,EQ,INE686A01026,CEMPRO.NS,False,False,2026-09-11,nse_live
+CENTRALBK,Central Bank of India,Financial Services,EQ,INE483A01010,CENTRALBK.NS,True,False,2026-09-11,nse_live
+CESC,CESC Ltd.,Power,EQ,INE486A01021,CESC.NS,False,False,2026-09-11,nse_live
+CGCL,Capri Global Capital Ltd.,Financial Services,EQ,INE180C01042,CGCL.NS,True,False,2026-09-11,nse_live
+CGPOWER,CG Power and Industrial Solutions Ltd.,Capital Goods,EQ,INE067A01029,CGPOWER.NS,False,False,2026-09-11,nse_live
+CHALET,Chalet Hotels Ltd.,Consumer Services,EQ,INE427F01016,CHALET.NS,False,False,2026-09-11,nse_live
+CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,Chemicals,EQ,INE085A01013,CHAMBLFERT.NS,False,False,2026-09-11,nse_live
+CHENNPETRO,Chennai Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,EQ,INE178A01016,CHENNPETRO.NS,False,False,2026-09-11,nse_live
+CHOICEIN,Choice International Ltd.,Financial Services,EQ,INE102B01014,CHOICEIN.NS,True,False,2026-09-11,nse_live
+CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,Financial Services,EQ,INE121A01024,CHOLAFIN.NS,True,False,2026-09-11,nse_live
+CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,Financial Services,EQ,INE149A01033,CHOLAHLDNG.NS,True,False,2026-09-11,nse_live
+CIEINDIA,CIE Automotive India Ltd.,Automobile and Auto Components,EQ,INE536H01010,CIEINDIA.NS,False,False,2026-09-11,nse_live
+CIPLA,Cipla Ltd.,Healthcare,EQ,INE059A01026,CIPLA.NS,False,False,2026-09-11,nse_live
+CLEAN,Clean Science and Technology Ltd.,Chemicals,EQ,INE227W01023,CLEAN.NS,False,False,2026-09-11,nse_live
+COALINDIA,Coal India Ltd.,Oil Gas & Consumable Fuels,EQ,INE522F01014,COALINDIA.NS,False,False,2026-09-11,nse_live
+COCHINSHIP,Cochin Shipyard Ltd.,Capital Goods,EQ,INE704P01025,COCHINSHIP.NS,False,False,2026-09-11,nse_live
+COFORGE,Coforge Ltd.,Information Technology,EQ,INE591G01025,COFORGE.NS,False,False,2026-09-11,nse_live
+COHANCE,Cohance Lifesciences Ltd.,Healthcare,EQ,INE03QK01018,COHANCE.NS,False,False,2026-09-11,nse_live
+COLPAL,Colgate Palmolive (India) Ltd.,Fast Moving Consumer Goods,EQ,INE259A01022,COLPAL.NS,False,False,2026-09-11,nse_live
+CONCOR,Container Corporation of India Ltd.,Services,EQ,INE111A01025,CONCOR.NS,False,False,2026-09-11,nse_live
+CONCORDBIO,Concord Biotech Ltd.,Healthcare,EQ,INE338H01029,CONCORDBIO.NS,False,False,2026-09-11,nse_live
+COROMANDEL,Coromandel International Ltd.,Chemicals,EQ,INE169A01031,COROMANDEL.NS,False,False,2026-09-11,nse_live
+CPPLUS,Aditya Infotech Ltd.,Capital Goods,EQ,INE819V01029,CPPLUS.NS,False,False,2026-09-11,nse_live
+CRAFTSMAN,Craftsman Automation Ltd.,Automobile and Auto Components,EQ,INE00LO01017,CRAFTSMAN.NS,False,False,2026-09-11,nse_live
+CREDITACC,CreditAccess Grameen Ltd.,Financial Services,EQ,INE741K01010,CREDITACC.NS,True,False,2026-09-11,nse_live
+CRISIL,CRISIL Ltd.,Financial Services,EQ,INE007A01025,CRISIL.NS,True,False,2026-09-11,nse_live
+CROMPTON,Crompton Greaves Consumer Electricals Ltd.,Consumer Durables,EQ,INE299U01018,CROMPTON.NS,False,False,2026-09-11,nse_live
+CUB,City Union Bank Ltd.,Financial Services,EQ,INE491A01021,CUB.NS,True,False,2026-09-11,nse_live
+CUMMINSIND,Cummins India Ltd.,Capital Goods,EQ,INE298A01020,CUMMINSIND.NS,False,False,2026-09-11,nse_live
+CYIENT,Cyient Ltd.,Information Technology,EQ,INE136B01020,CYIENT.NS,False,False,2026-09-11,nse_live
+DABUR,Dabur India Ltd.,Fast Moving Consumer Goods,EQ,INE016A01026,DABUR.NS,False,False,2026-09-11,nse_live
+DALBHARAT,Dalmia Bharat Ltd.,Construction Materials,EQ,INE00R701025,DALBHARAT.NS,False,False,2026-09-11,nse_live
+DATAPATTNS,Data Patterns (India) Ltd.,Capital Goods,EQ,INE0IX101010,DATAPATTNS.NS,False,False,2026-09-11,nse_live
+DCMSHRIRAM,DCM Shriram Ltd.,Diversified,EQ,INE499A01024,DCMSHRIRAM.NS,False,False,2026-09-11,nse_live
+DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp. Ltd.,Chemicals,EQ,INE501A01019,DEEPAKFERT.NS,False,False,2026-09-11,nse_live
+DEEPAKNTR,Deepak Nitrite Ltd.,Chemicals,EQ,INE288B01029,DEEPAKNTR.NS,False,False,2026-09-11,nse_live
+DELHIVERY,Delhivery Ltd.,Services,EQ,INE148O01028,DELHIVERY.NS,False,False,2026-09-11,nse_live
+DEVYANI,Devyani International Ltd.,Consumer Services,EQ,INE872J01023,DEVYANI.NS,False,False,2026-09-11,nse_live
+DIVISLAB,Divi's Laboratories Ltd.,Healthcare,EQ,INE361B01024,DIVISLAB.NS,False,False,2026-09-11,nse_live
+DIXON,Dixon Technologies (India) Ltd.,Consumer Durables,EQ,INE935N01020,DIXON.NS,False,False,2026-09-11,nse_live
+DLF,DLF Ltd.,Realty,EQ,INE271C01023,DLF.NS,False,False,2026-09-11,nse_live
+DMART,Avenue Supermarts Ltd.,Consumer Services,EQ,INE192R01011,DMART.NS,False,False,2026-09-11,nse_live
+DOMS,DOMS Industries Ltd.,Fast Moving Consumer Goods,EQ,INE321T01012,DOMS.NS,False,False,2026-09-11,nse_live
+DRREDDY,Dr. Reddy's Laboratories Ltd.,Healthcare,EQ,INE089A01031,DRREDDY.NS,False,False,2026-09-11,nse_live
+ECLERX,eClerx Services Ltd.,Services,EQ,INE738I01010,ECLERX.NS,False,False,2026-09-11,nse_live
+EICHERMOT,Eicher Motors Ltd.,Automobile and Auto Components,EQ,INE066A01021,EICHERMOT.NS,False,False,2026-09-11,nse_live
+EIDPARRY,E.I.D. Parry (India) Ltd.,Fast Moving Consumer Goods,EQ,INE126A01031,EIDPARRY.NS,False,False,2026-09-11,nse_live
+EIHOTEL,EIH Ltd.,Consumer Services,EQ,INE230A01023,EIHOTEL.NS,False,False,2026-09-11,nse_live
+ELECON,Elecon Engineering Co. Ltd.,Capital Goods,EQ,INE205B01031,ELECON.NS,False,False,2026-09-11,nse_live
+ELGIEQUIP,Elgi Equipments Ltd.,Capital Goods,EQ,INE285A01027,ELGIEQUIP.NS,False,False,2026-09-11,nse_live
+EMAMILTD,Emami Ltd.,Fast Moving Consumer Goods,EQ,INE548C01032,EMAMILTD.NS,False,False,2026-09-11,nse_live
+EMCURE,Emcure Pharmaceuticals Ltd.,Healthcare,EQ,INE168P01015,EMCURE.NS,False,False,2026-09-11,nse_live
+EMMVEE,Emmvee Photovoltaic Power Ltd.,Capital Goods,EQ,INE1C6T01020,EMMVEE.NS,False,False,2026-09-11,nse_live
+ENDURANCE,Endurance Technologies Ltd.,Automobile and Auto Components,EQ,INE913H01037,ENDURANCE.NS,False,False,2026-09-11,nse_live
+ENGINERSIN,Engineers India Ltd.,Construction,EQ,INE510A01028,ENGINERSIN.NS,False,False,2026-09-11,nse_live
+ENRIN,Siemens Energy India Ltd.,Capital Goods,EQ,INE1NPP01017,ENRIN.NS,False,False,2026-09-11,nse_live
+ERIS,Eris Lifesciences Ltd.,Healthcare,EQ,INE406M01024,ERIS.NS,False,False,2026-09-11,nse_live
+ESCORTS,Escorts Kubota Ltd.,Capital Goods,EQ,INE042A01014,ESCORTS.NS,False,False,2026-09-11,nse_live
+ETERNAL,Eternal Ltd.,Consumer Services,EQ,INE758T01015,ETERNAL.NS,False,False,2026-09-11,nse_live
+EXIDEIND,Exide Industries Ltd.,Automobile and Auto Components,EQ,INE302A01020,EXIDEIND.NS,False,False,2026-09-11,nse_live
+FACT,Fertilisers and Chemicals Travancore Ltd.,Chemicals,EQ,INE188A01015,FACT.NS,False,False,2026-09-11,nse_live
+FEDERALBNK,Federal Bank Ltd.,Financial Services,EQ,INE171A01029,FEDERALBNK.NS,True,False,2026-09-11,nse_live
+FINCABLES,Finolex Cables Ltd.,Capital Goods,EQ,INE235A01022,FINCABLES.NS,False,False,2026-09-11,nse_live
+FIRSTCRY,Brainbees Solutions Ltd.,Consumer Services,EQ,INE02RE01045,FIRSTCRY.NS,False,False,2026-09-11,nse_live
+FIVESTAR,Five-Star Business Finance Ltd.,Financial Services,EQ,INE128S01021,FIVESTAR.NS,True,False,2026-09-11,nse_live
+FLUOROCHEM,Gujarat Fluorochemicals Ltd.,Chemicals,EQ,INE09N301011,FLUOROCHEM.NS,False,False,2026-09-11,nse_live
+FORCEMOT,Force Motors Ltd.,Automobile and Auto Components,EQ,INE451A01017,FORCEMOT.NS,False,False,2026-09-11,nse_live
+FORTIS,Fortis Healthcare Ltd.,Healthcare,EQ,INE061F01013,FORTIS.NS,False,False,2026-09-11,nse_live
+FSL,Firstsource Solutions Ltd.,Services,EQ,INE684F01012,FSL.NS,False,False,2026-09-11,nse_live
+GABRIEL,Gabriel India Ltd.,Automobile and Auto Components,EQ,INE524A01029,GABRIEL.NS,False,False,2026-09-11,nse_live
+GAIL,GAIL (India) Ltd.,Oil Gas & Consumable Fuels,EQ,INE129A01019,GAIL.NS,False,False,2026-09-11,nse_live
+GALLANTT,Gallantt Ispat Ltd.,Capital Goods,EQ,INE297H01019,GALLANTT.NS,False,False,2026-09-11,nse_live
+GESHIP,Great Eastern Shipping Co. Ltd.,Services,EQ,INE017A01032,GESHIP.NS,False,False,2026-09-11,nse_live
+GICRE,General Insurance Corporation of India,Financial Services,EQ,INE481Y01014,GICRE.NS,True,False,2026-09-11,nse_live
+GILLETTE,Gillette India Ltd.,Fast Moving Consumer Goods,EQ,INE322A01010,GILLETTE.NS,False,False,2026-09-11,nse_live
+GLAND,Gland Pharma Ltd.,Healthcare,EQ,INE068V01023,GLAND.NS,False,False,2026-09-11,nse_live
+GLAXO,Glaxosmithkline Pharmaceuticals Ltd.,Healthcare,EQ,INE159A01016,GLAXO.NS,False,False,2026-09-11,nse_live
+GLENMARK,Glenmark Pharmaceuticals Ltd.,Healthcare,EQ,INE935A01035,GLENMARK.NS,False,False,2026-09-11,nse_live
+GMDCLTD,Gujarat Mineral Development Corporation Ltd.,Metals & Mining,EQ,INE131A01031,GMDCLTD.NS,False,False,2026-09-11,nse_live
+GMRAIRPORT,GMR Airports Ltd.,Services,EQ,INE776C01039,GMRAIRPORT.NS,False,False,2026-09-11,nse_live
+GODFRYPHLP,Godfrey Phillips India Ltd.,Fast Moving Consumer Goods,EQ,INE260B01028,GODFRYPHLP.NS,False,False,2026-09-11,nse_live
+GODIGIT,Go Digit General Insurance Ltd.,Financial Services,EQ,INE03JT01014,GODIGIT.NS,True,False,2026-09-11,nse_live
+GODREJCP,Godrej Consumer Products Ltd.,Fast Moving Consumer Goods,EQ,INE102D01028,GODREJCP.NS,False,False,2026-09-11,nse_live
+GODREJIND,Godrej Industries Ltd.,Diversified,EQ,INE233A01035,GODREJIND.NS,False,False,2026-09-11,nse_live
+GODREJPROP,Godrej Properties Ltd.,Realty,EQ,INE484J01027,GODREJPROP.NS,False,False,2026-09-11,nse_live
+GPIL,Godawari Power & Ispat Ltd.,Capital Goods,EQ,INE177H01039,GPIL.NS,False,False,2026-09-11,nse_live
+GRANULES,Granules India Ltd.,Healthcare,EQ,INE101D01020,GRANULES.NS,False,False,2026-09-11,nse_live
+GRAPHITE,Graphite India Ltd.,Capital Goods,EQ,INE371A01025,GRAPHITE.NS,False,False,2026-09-11,nse_live
+GRASIM,Grasim Industries Ltd.,Construction Materials,EQ,INE047A01021,GRASIM.NS,False,False,2026-09-11,nse_live
+GRAVITA,Gravita India Ltd.,Metals & Mining,EQ,INE024L01027,GRAVITA.NS,False,False,2026-09-11,nse_live
+GROWW,Billionbrains Garage Ventures Ltd.,Financial Services,EQ,INE0HOQ01053,GROWW.NS,True,False,2026-09-11,nse_live
+GRSE,Garden Reach Shipbuilders & Engineers Ltd.,Capital Goods,EQ,INE382Z01011,GRSE.NS,False,False,2026-09-11,nse_live
+GVT&D,GE Vernova T&D India Ltd.,Capital Goods,EQ,INE200A01026,GVT&D.NS,False,False,2026-09-11,nse_live
+HAL,Hindustan Aeronautics Ltd.,Capital Goods,EQ,INE066F01020,HAL.NS,False,False,2026-09-11,nse_live
+HAVELLS,Havells India Ltd.,Consumer Durables,EQ,INE176B01034,HAVELLS.NS,False,False,2026-09-11,nse_live
+HBLENGINE,HBL Engineering Ltd.,Capital Goods,EQ,INE292B01021,HBLENGINE.NS,False,False,2026-09-11,nse_live
+HCLTECH,HCL Technologies Ltd.,Information Technology,EQ,INE860A01027,HCLTECH.NS,False,False,2026-09-11,nse_live
+HDBFS,HDB Financial Services Ltd.,Financial Services,EQ,INE756I01012,HDBFS.NS,True,False,2026-09-11,nse_live
+HDFCAMC,HDFC Asset Management Company Ltd.,Financial Services,EQ,INE127D01025,HDFCAMC.NS,True,False,2026-09-11,nse_live
+HDFCBANK,HDFC Bank Ltd.,Financial Services,EQ,INE040A01034,HDFCBANK.NS,True,False,2026-09-11,nse_live
+HDFCLIFE,HDFC Life Insurance Company Ltd.,Financial Services,EQ,INE795G01014,HDFCLIFE.NS,True,False,2026-09-11,nse_live
+HEG,HEG Ltd.,Capital Goods,BE,INE545A01024,HEG.NS,False,True,2026-09-11,nse_live
+HEROMOTOCO,Hero MotoCorp Ltd.,Automobile and Auto Components,EQ,INE158A01026,HEROMOTOCO.NS,False,False,2026-09-11,nse_live
+HEXT,Hexaware Technologies Ltd.,Information Technology,EQ,INE093A01041,HEXT.NS,False,False,2026-09-11,nse_live
+HFCL,HFCL Ltd.,Telecommunication,BE,INE548A01028,HFCL.NS,False,True,2026-09-11,nse_live
+HINDALCO,Hindalco Industries Ltd.,Metals & Mining,EQ,INE038A01020,HINDALCO.NS,False,False,2026-09-11,nse_live
+HINDCOPPER,Hindustan Copper Ltd.,Metals & Mining,EQ,INE531E01026,HINDCOPPER.NS,False,False,2026-09-11,nse_live
+HINDPETRO,Hindustan Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,EQ,INE094A01015,HINDPETRO.NS,False,False,2026-09-11,nse_live
+HINDUNILVR,Hindustan Unilever Ltd.,Fast Moving Consumer Goods,EQ,INE030A01027,HINDUNILVR.NS,False,False,2026-09-11,nse_live
+HINDZINC,Hindustan Zinc Ltd.,Metals & Mining,EQ,INE267A01025,HINDZINC.NS,False,False,2026-09-11,nse_live
+HOMEFIRST,Home First Finance Company India Ltd.,Financial Services,EQ,INE481N01025,HOMEFIRST.NS,True,False,2026-09-11,nse_live
+HONASA,Honasa Consumer Ltd.,Fast Moving Consumer Goods,EQ,INE0J5401028,HONASA.NS,False,False,2026-09-11,nse_live
+HONAUT,Honeywell Automation India Ltd.,Capital Goods,EQ,INE671A01010,HONAUT.NS,False,False,2026-09-11,nse_live
+HSCL,Himadri Speciality Chemical Ltd.,Chemicals,EQ,INE019C01026,HSCL.NS,False,False,2026-09-11,nse_live
+HUDCO,Housing & Urban Development Corporation Ltd.,Financial Services,EQ,INE031A01017,HUDCO.NS,True,False,2026-09-11,nse_live
+HYUNDAI,Hyundai Motor India Ltd.,Automobile and Auto Components,EQ,INE0V6F01027,HYUNDAI.NS,False,False,2026-09-11,nse_live
+ICICIAMC,ICICI Prudential Asset Management Company Ltd.,Financial Services,EQ,INE346A01027,ICICIAMC.NS,True,False,2026-09-11,nse_live
+ICICIBANK,ICICI Bank Ltd.,Financial Services,EQ,INE090A01021,ICICIBANK.NS,True,False,2026-09-11,nse_live
+ICICIGI,ICICI Lombard General Insurance Company Ltd.,Financial Services,EQ,INE765G01017,ICICIGI.NS,True,False,2026-09-11,nse_live
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,Financial Services,EQ,INE726G01019,ICICIPRULI.NS,True,False,2026-09-11,nse_live
+IDBI,IDBI Bank Ltd.,Financial Services,EQ,INE008A01015,IDBI.NS,True,False,2026-09-11,nse_live
+IDEA,Vodafone Idea Ltd.,Telecommunication,EQ,INE669E01016,IDEA.NS,False,False,2026-09-11,nse_live
+IDFCFIRSTB,IDFC First Bank Ltd.,Financial Services,EQ,INE092T01019,IDFCFIRSTB.NS,True,False,2026-09-11,nse_live
+IEX,Indian Energy Exchange Ltd.,Financial Services,EQ,INE022Q01020,IEX.NS,True,False,2026-09-11,nse_live
+IFCI,IFCI Ltd.,Financial Services,EQ,INE039A01010,IFCI.NS,True,False,2026-09-11,nse_live
+IGIL,International Gemological Institute Ltd.,Services,EQ,INE0Q9301021,IGIL.NS,False,False,2026-09-11,nse_live
+IGL,Indraprastha Gas Ltd.,Oil Gas & Consumable Fuels,EQ,INE203G01027,IGL.NS,False,False,2026-09-11,nse_live
+IIFL,IIFL Finance Ltd.,Financial Services,EQ,INE530B01024,IIFL.NS,True,False,2026-09-11,nse_live
+IKS,Inventurus Knowledge Solutions Ltd.,Information Technology,EQ,INE115Q01022,IKS.NS,False,False,2026-09-11,nse_live
+INDGN,Indegene Ltd.,Healthcare,EQ,INE065X01017,INDGN.NS,False,False,2026-09-11,nse_live
+INDHOTEL,Indian Hotels Co. Ltd.,Consumer Services,EQ,INE053A01029,INDHOTEL.NS,False,False,2026-09-11,nse_live
+INDIACEM,India Cements Ltd.,Construction Materials,EQ,INE383A01012,INDIACEM.NS,False,False,2026-09-11,nse_live
+INDIAMART,Indiamart Intermesh Ltd.,Consumer Services,EQ,INE933S01016,INDIAMART.NS,False,False,2026-09-11,nse_live
+INDIANB,Indian Bank,Financial Services,EQ,INE562A01011,INDIANB.NS,True,False,2026-09-11,nse_live
+INDIGO,InterGlobe Aviation Ltd.,Services,EQ,INE646L01027,INDIGO.NS,False,False,2026-09-11,nse_live
+INDUSINDBK,IndusInd Bank Ltd.,Financial Services,EQ,INE095A01012,INDUSINDBK.NS,True,False,2026-09-11,nse_live
+INDUSTOWER,Indus Towers Ltd.,Telecommunication,EQ,INE121J01017,INDUSTOWER.NS,False,False,2026-09-11,nse_live
+INFY,Infosys Ltd.,Information Technology,EQ,INE009A01021,INFY.NS,False,False,2026-09-11,nse_live
+INOXWIND,Inox Wind Ltd.,Capital Goods,EQ,INE066P01011,INOXWIND.NS,False,False,2026-09-11,nse_live
+INTELLECT,Intellect Design Arena Ltd.,Information Technology,EQ,INE306R01017,INTELLECT.NS,False,False,2026-09-11,nse_live
+IOB,Indian Overseas Bank,Financial Services,EQ,INE565A01014,IOB.NS,True,False,2026-09-11,nse_live
+IOC,Indian Oil Corporation Ltd.,Oil Gas & Consumable Fuels,EQ,INE242A01010,IOC.NS,False,False,2026-09-11,nse_live
+IPCALAB,Ipca Laboratories Ltd.,Healthcare,EQ,INE571A01038,IPCALAB.NS,False,False,2026-09-11,nse_live
+IRB,IRB Infrastructure Developers Ltd.,Construction,EQ,INE821I01022,IRB.NS,False,False,2026-09-11,nse_live
+IRCON,IRCON International Ltd.,Construction,EQ,INE962Y01021,IRCON.NS,False,False,2026-09-11,nse_live
+IRCTC,Indian Railway Catering And Tourism Corporation Ltd.,Consumer Services,EQ,INE335Y01020,IRCTC.NS,False,False,2026-09-11,nse_live
+IREDA,Indian Renewable Energy Development Agency Ltd.,Financial Services,EQ,INE202E01016,IREDA.NS,True,False,2026-09-11,nse_live
+IRFC,Indian Railway Finance Corporation Ltd.,Financial Services,EQ,INE053F01010,IRFC.NS,True,False,2026-09-11,nse_live
+ITC,ITC Ltd.,Fast Moving Consumer Goods,EQ,INE154A01025,ITC.NS,False,False,2026-09-11,nse_live
+ITCHOTELS,ITC Hotels Ltd.,Consumer Services,EQ,INE379A01028,ITCHOTELS.NS,False,False,2026-09-11,nse_live
+ITI,ITI Ltd.,Telecommunication,EQ,INE248A01017,ITI.NS,False,False,2026-09-11,nse_live
+J&KBANK,Jammu & Kashmir Bank Ltd.,Financial Services,EQ,INE168A01041,J&KBANK.NS,True,False,2026-09-11,nse_live
+JAINREC,Jain Resource Recycling Ltd.,Metals & Mining,EQ,INE0YD401026,JAINREC.NS,False,False,2026-09-11,nse_live
+JBMA,JBM Auto Ltd.,Automobile and Auto Components,EQ,INE927D01051,JBMA.NS,False,False,2026-09-11,nse_live
+JINDALSAW,Jindal Saw Ltd.,Capital Goods,EQ,INE324A01032,JINDALSAW.NS,False,False,2026-09-11,nse_live
+JINDALSTEL,Jindal Steel Ltd.,Metals & Mining,EQ,INE749A01030,JINDALSTEL.NS,False,False,2026-09-11,nse_live
+JIOFIN,Jio Financial Services Ltd.,Financial Services,EQ,INE758E01017,JIOFIN.NS,True,False,2026-09-11,nse_live
+JKCEMENT,J.K. Cement Ltd.,Construction Materials,EQ,INE823G01014,JKCEMENT.NS,False,False,2026-09-11,nse_live
+JKTYRE,JK Tyre & Industries Ltd.,Automobile and Auto Components,EQ,INE573A01042,JKTYRE.NS,False,False,2026-09-11,nse_live
+JMFINANCIL,JM Financial Ltd.,Financial Services,EQ,INE780C01023,JMFINANCIL.NS,True,False,2026-09-11,nse_live
+JPPOWER,Jaiprakash Power Ventures Ltd.,Power,EQ,INE351F01018,JPPOWER.NS,False,False,2026-09-11,nse_live
+JSL,Jindal Stainless Ltd.,Metals & Mining,EQ,INE220G01021,JSL.NS,False,False,2026-09-11,nse_live
+JSWCEMENT,JSW Cement Ltd.,Construction Materials,EQ,INE718I01012,JSWCEMENT.NS,False,False,2026-09-11,nse_live
+JSWDULUX,JSW Dulux Ltd.,Consumer Durables,EQ,INE133A01011,JSWDULUX.NS,False,False,2026-09-11,nse_live
+JSWENERGY,JSW Energy Ltd.,Power,EQ,INE121E01018,JSWENERGY.NS,False,False,2026-09-11,nse_live
+JSWINFRA,JSW Infrastructure Ltd.,Services,EQ,INE880J01026,JSWINFRA.NS,False,False,2026-09-11,nse_live
+JSWSTEEL,JSW Steel Ltd.,Metals & Mining,EQ,INE019A01038,JSWSTEEL.NS,False,False,2026-09-11,nse_live
+JUBLFOOD,Jubilant Foodworks Ltd.,Consumer Services,EQ,INE797F01020,JUBLFOOD.NS,False,False,2026-09-11,nse_live
+JUBLINGREA,Jubilant Ingrevia Ltd.,Chemicals,EQ,INE0BY001018,JUBLINGREA.NS,False,False,2026-09-11,nse_live
+JUBLPHARMA,Jubilant Pharmova Ltd.,Healthcare,EQ,INE700A01033,JUBLPHARMA.NS,False,False,2026-09-11,nse_live
+JWL,Jupiter Wagons Ltd.,Capital Goods,EQ,INE209L01016,JWL.NS,False,False,2026-09-11,nse_live
+JYOTICNC,Jyoti CNC Automation Ltd.,Capital Goods,EQ,INE980O01024,JYOTICNC.NS,False,False,2026-09-11,nse_live
+KAJARIACER,Kajaria Ceramics Ltd.,Consumer Durables,EQ,INE217B01036,KAJARIACER.NS,False,False,2026-09-11,nse_live
+KALYANKJIL,Kalyan Jewellers India Ltd.,Consumer Durables,EQ,INE303R01014,KALYANKJIL.NS,False,False,2026-09-11,nse_live
+KARURVYSYA,Karur Vysya Bank Ltd.,Financial Services,EQ,INE036D01028,KARURVYSYA.NS,True,False,2026-09-11,nse_live
+KAYNES,Kaynes Technology India Ltd.,Capital Goods,EQ,INE918Z01012,KAYNES.NS,False,False,2026-09-11,nse_live
+KEC,Kec International Ltd.,Construction,EQ,INE389H01022,KEC.NS,False,False,2026-09-11,nse_live
+KEI,KEI Industries Ltd.,Capital Goods,EQ,INE878B01027,KEI.NS,False,False,2026-09-11,nse_live
+KFINTECH,Kfin Technologies Ltd.,Financial Services,EQ,INE138Y01010,KFINTECH.NS,True,False,2026-09-11,nse_live
+KIMS,Krishna Institute of Medical Sciences Ltd.,Healthcare,EQ,INE967H01025,KIMS.NS,False,False,2026-09-11,nse_live
+KIRLOSENG,Kirloskar Oil Eng Ltd.,Capital Goods,EQ,INE146L01010,KIRLOSENG.NS,False,False,2026-09-11,nse_live
+KOTAKBANK,Kotak Mahindra Bank Ltd.,Financial Services,EQ,INE237A01036,KOTAKBANK.NS,True,False,2026-09-11,nse_live
+KPIL,Kalpataru Projects International Ltd.,Construction,EQ,INE220B01022,KPIL.NS,False,False,2026-09-11,nse_live
+KPITTECH,KPIT Technologies Ltd.,Information Technology,EQ,INE04I401011,KPITTECH.NS,False,False,2026-09-11,nse_live
+KPRMILL,K.P.R. Mill Ltd.,Textiles,EQ,INE930H01031,KPRMILL.NS,False,False,2026-09-11,nse_live
+LALPATHLAB,Dr. Lal Path Labs Ltd.,Healthcare,EQ,INE600L01024,LALPATHLAB.NS,False,False,2026-09-11,nse_live
+LATENTVIEW,Latent View Analytics Ltd.,Information Technology,EQ,INE0I7C01011,LATENTVIEW.NS,False,False,2026-09-11,nse_live
+LAURUSLABS,Laurus Labs Ltd.,Healthcare,EQ,INE947Q01028,LAURUSLABS.NS,False,False,2026-09-11,nse_live
+LEMONTREE,Lemon Tree Hotels Ltd.,Consumer Services,EQ,INE970X01018,LEMONTREE.NS,False,False,2026-09-11,nse_live
+LENSKART,Lenskart Solutions Ltd.,Consumer Services,EQ,INE956O01016,LENSKART.NS,False,False,2026-09-11,nse_live
+LGEINDIA,LG Electronics India Ltd.,Consumer Durables,EQ,INE324D01010,LGEINDIA.NS,False,False,2026-09-11,nse_live
+LICHSGFIN,LIC Housing Finance Ltd.,Financial Services,EQ,INE115A01026,LICHSGFIN.NS,True,False,2026-09-11,nse_live
+LICI,Life Insurance Corporation of India,Financial Services,EQ,INE0J1Y01017,LICI.NS,True,False,2026-09-11,nse_live
+LINDEINDIA,Linde India Ltd.,Chemicals,EQ,INE473A01011,LINDEINDIA.NS,False,False,2026-09-11,nse_live
+LLOYDSME,Lloyds Metals And Energy Ltd.,Metals & Mining,EQ,INE281B01032,LLOYDSME.NS,False,False,2026-09-11,nse_live
+LODHA,Lodha Developers Ltd.,Realty,EQ,INE670K01029,LODHA.NS,False,False,2026-09-11,nse_live
+LT,Larsen & Toubro Ltd.,Construction,EQ,INE018A01030,LT.NS,False,False,2026-09-11,nse_live
+LTF,L&T Finance Ltd.,Financial Services,EQ,INE498L01015,LTF.NS,True,False,2026-09-11,nse_live
+LTFOODS,LT Foods Ltd.,Fast Moving Consumer Goods,EQ,INE818H01020,LTFOODS.NS,False,False,2026-09-11,nse_live
+LTM,LTM Ltd.,Information Technology,EQ,INE214T01019,LTM.NS,False,False,2026-09-11,nse_live
+LTTS,L&T Technology Services Ltd.,Information Technology,EQ,INE010V01017,LTTS.NS,False,False,2026-09-11,nse_live
+LUPIN,Lupin Ltd.,Healthcare,EQ,INE326A01037,LUPIN.NS,False,False,2026-09-11,nse_live
+M&M,Mahindra & Mahindra Ltd.,Automobile and Auto Components,EQ,INE101A01026,M&M.NS,False,False,2026-09-11,nse_live
+M&MFIN,Mahindra & Mahindra Financial Services Ltd.,Financial Services,EQ,INE774D01024,M&MFIN.NS,True,False,2026-09-11,nse_live
+MAHABANK,Bank of Maharashtra,Financial Services,EQ,INE457A01014,MAHABANK.NS,True,False,2026-09-11,nse_live
+MANAPPURAM,Manappuram Finance Ltd.,Financial Services,EQ,INE522D01027,MANAPPURAM.NS,True,False,2026-09-11,nse_live
+MANKIND,Mankind Pharma Ltd.,Healthcare,EQ,INE634S01028,MANKIND.NS,False,False,2026-09-11,nse_live
+MAPMYINDIA,C.E. Info Systems Ltd.,Information Technology,EQ,INE0BV301023,MAPMYINDIA.NS,False,False,2026-09-11,nse_live
+MARICO,Marico Ltd.,Fast Moving Consumer Goods,EQ,INE196A01026,MARICO.NS,False,False,2026-09-11,nse_live
+MARUTI,Maruti Suzuki India Ltd.,Automobile and Auto Components,EQ,INE585B01010,MARUTI.NS,False,False,2026-09-11,nse_live
+MAXHEALTH,Max Healthcare Institute Ltd.,Healthcare,EQ,INE027H01010,MAXHEALTH.NS,False,False,2026-09-11,nse_live
+MAZDOCK,Mazagoan Dock Shipbuilders Ltd.,Capital Goods,EQ,INE249Z01020,MAZDOCK.NS,False,False,2026-09-11,nse_live
+MCX,Multi Commodity Exchange of India Ltd.,Financial Services,EQ,INE745G01043,MCX.NS,True,False,2026-09-11,nse_live
+MEDANTA,Global Health Ltd.,Healthcare,EQ,INE474Q01031,MEDANTA.NS,False,False,2026-09-11,nse_live
+MEESHO,Meesho Ltd.,Consumer Services,EQ,INE0VDM01015,MEESHO.NS,False,False,2026-09-11,nse_live
+MFSL,Max Financial Services Ltd.,Financial Services,EQ,INE180A01020,MFSL.NS,True,False,2026-09-11,nse_live
+MGL,Mahanagar Gas Ltd.,Oil Gas & Consumable Fuels,EQ,INE002S01010,MGL.NS,False,False,2026-09-11,nse_live
+MINDACORP,Minda Corporation Ltd.,Automobile and Auto Components,EQ,INE842C01021,MINDACORP.NS,False,False,2026-09-11,nse_live
+MMTC,MMTC Ltd.,Services,EQ,INE123F01029,MMTC.NS,False,False,2026-09-11,nse_live
+MOTHERSON,Samvardhana Motherson International Ltd.,Automobile and Auto Components,EQ,INE775A01035,MOTHERSON.NS,False,False,2026-09-11,nse_live
+MOTILALOFS,Motilal Oswal Financial Services Ltd.,Financial Services,EQ,INE338I01027,MOTILALOFS.NS,True,False,2026-09-11,nse_live
+MPHASIS,MphasiS Ltd.,Information Technology,EQ,INE356A01018,MPHASIS.NS,False,False,2026-09-11,nse_live
+MRF,MRF Ltd.,Automobile and Auto Components,EQ,INE883A01011,MRF.NS,False,False,2026-09-11,nse_live
+MRPL,Mangalore Refinery & Petrochemicals Ltd.,Oil Gas & Consumable Fuels,EQ,INE103A01014,MRPL.NS,False,False,2026-09-11,nse_live
+MSUMI,Motherson Sumi Wiring India Ltd.,Automobile and Auto Components,EQ,INE0FS801015,MSUMI.NS,False,False,2026-09-11,nse_live
+MUTHOOTFIN,Muthoot Finance Ltd.,Financial Services,EQ,INE414G01012,MUTHOOTFIN.NS,True,False,2026-09-11,nse_live
+NAM-INDIA,Nippon Life India Asset Management Ltd.,Financial Services,EQ,INE298J01013,NAM-INDIA.NS,True,False,2026-09-11,nse_live
+NATCOPHARM,NATCO Pharma Ltd.,Healthcare,EQ,INE987B01026,NATCOPHARM.NS,False,False,2026-09-11,nse_live
+NATIONALUM,National Aluminium Co. Ltd.,Metals & Mining,EQ,INE139A01034,NATIONALUM.NS,False,False,2026-09-11,nse_live
+NAUKRI,Info Edge (India) Ltd.,Consumer Services,EQ,INE663F01032,NAUKRI.NS,False,False,2026-09-11,nse_live
+NAVA,Nava Ltd.,Power,EQ,INE725A01030,NAVA.NS,False,False,2026-09-11,nse_live
+NAVINFLUOR,Navin Fluorine International Ltd.,Chemicals,EQ,INE048G01026,NAVINFLUOR.NS,False,False,2026-09-11,nse_live
+NBCC,NBCC (India) Ltd.,Construction,EQ,INE095N01031,NBCC.NS,False,False,2026-09-11,nse_live
+NCC,NCC Ltd.,Construction,EQ,INE868B01028,NCC.NS,False,False,2026-09-11,nse_live
+NESTLEIND,Nestle India Ltd.,Fast Moving Consumer Goods,EQ,INE239A01024,NESTLEIND.NS,False,False,2026-09-11,nse_live
+NETWEB,Netweb Technologies India Ltd.,Information Technology,EQ,INE0NT901020,NETWEB.NS,False,False,2026-09-11,nse_live
+NEULANDLAB,Neuland Laboratories Ltd.,Healthcare,EQ,INE794A01010,NEULANDLAB.NS,False,False,2026-09-11,nse_live
+NEWGEN,Newgen Software Technologies Ltd.,Information Technology,EQ,INE619B01017,NEWGEN.NS,False,False,2026-09-11,nse_live
+NH,Narayana Hrudayalaya Ltd.,Healthcare,EQ,INE410P01011,NH.NS,False,False,2026-09-11,nse_live
+NHPC,NHPC Ltd.,Power,EQ,INE848E01016,NHPC.NS,False,False,2026-09-11,nse_live
+NIACL,The New India Assurance Company Ltd.,Financial Services,EQ,INE470Y01017,NIACL.NS,True,False,2026-09-11,nse_live
+NIVABUPA,Niva Bupa Health Insurance Company Ltd.,Financial Services,EQ,INE995S01015,NIVABUPA.NS,True,False,2026-09-11,nse_live
+NLCINDIA,NLC India Ltd.,Power,EQ,INE589A01014,NLCINDIA.NS,False,False,2026-09-11,nse_live
+NMDC,NMDC Ltd.,Metals & Mining,EQ,INE584A01023,NMDC.NS,False,False,2026-09-11,nse_live
+NSLNISP,NMDC Steel Ltd.,Metals & Mining,EQ,INE0NNS01018,NSLNISP.NS,False,False,2026-09-11,nse_live
+NTPC,NTPC Ltd.,Power,EQ,INE733E01010,NTPC.NS,False,False,2026-09-11,nse_live
+NTPCGREEN,NTPC Green Energy Ltd.,Power,EQ,INE0ONG01011,NTPCGREEN.NS,False,False,2026-09-11,nse_live
+NUVAMA,Nuvama Wealth Management Ltd.,Financial Services,EQ,INE531F01023,NUVAMA.NS,True,False,2026-09-11,nse_live
+NUVOCO,Nuvoco Vistas Corporation Ltd.,Construction Materials,EQ,INE118D01016,NUVOCO.NS,False,False,2026-09-11,nse_live
+NYKAA,FSN E-Commerce Ventures Ltd.,Consumer Services,EQ,INE388Y01029,NYKAA.NS,False,False,2026-09-11,nse_live
+OBEROIRLTY,Oberoi Realty Ltd.,Realty,EQ,INE093I01010,OBEROIRLTY.NS,False,False,2026-09-11,nse_live
+OFSS,Oracle Financial Services Software Ltd.,Information Technology,EQ,INE881D01027,OFSS.NS,False,False,2026-09-11,nse_live
+OIL,Oil India Ltd.,Oil Gas & Consumable Fuels,EQ,INE274J01014,OIL.NS,False,False,2026-09-11,nse_live
+OLAELEC,Ola Electric Mobility Ltd.,Automobile and Auto Components,EQ,INE0LXG01040,OLAELEC.NS,False,False,2026-09-11,nse_live
+OLECTRA,Olectra Greentech Ltd.,Automobile and Auto Components,EQ,INE260D01016,OLECTRA.NS,False,False,2026-09-11,nse_live
+ONESOURCE,Onesource Specialty Pharma Ltd.,Healthcare,EQ,INE013P01021,ONESOURCE.NS,False,False,2026-09-11,nse_live
+ONGC,Oil & Natural Gas Corporation Ltd.,Oil Gas & Consumable Fuels,EQ,INE213A01029,ONGC.NS,False,False,2026-09-11,nse_live
+PAGEIND,Page Industries Ltd.,Textiles,EQ,INE761H01022,PAGEIND.NS,False,False,2026-09-11,nse_live
+PARADEEP,Paradeep Phosphates Ltd.,Chemicals,EQ,INE088F01024,PARADEEP.NS,False,False,2026-09-11,nse_live
+PATANJALI,Patanjali Foods Ltd.,Fast Moving Consumer Goods,EQ,INE619A01035,PATANJALI.NS,False,False,2026-09-11,nse_live
+PAYTM,One 97 Communications Ltd.,Financial Services,EQ,INE982J01020,PAYTM.NS,True,False,2026-09-11,nse_live
+PCBL,PCBL Chemical Ltd.,Chemicals,EQ,INE602A01031,PCBL.NS,False,False,2026-09-11,nse_live
+PERSISTENT,Persistent Systems Ltd.,Information Technology,EQ,INE262H01021,PERSISTENT.NS,False,False,2026-09-11,nse_live
+PETRONET,Petronet LNG Ltd.,Oil Gas & Consumable Fuels,EQ,INE347G01014,PETRONET.NS,False,False,2026-09-11,nse_live
+PFC,Power Finance Corporation Ltd.,Financial Services,EQ,INE134E01011,PFC.NS,True,False,2026-09-11,nse_live
+PFIZER,Pfizer Ltd.,Healthcare,EQ,INE182A01018,PFIZER.NS,False,False,2026-09-11,nse_live
+PFOCUS,Prime Focus Ltd.,Media Entertainment & Publication,EQ,INE367G01038,PFOCUS.NS,False,False,2026-09-11,nse_live
+PGEL,PG Electroplast Ltd.,Consumer Durables,EQ,INE457L01029,PGEL.NS,False,False,2026-09-11,nse_live
+PHOENIXLTD,Phoenix Mills Ltd.,Realty,EQ,INE211B01039,PHOENIXLTD.NS,False,False,2026-09-11,nse_live
+PIDILITIND,Pidilite Industries Ltd.,Chemicals,EQ,INE318A01026,PIDILITIND.NS,False,False,2026-09-11,nse_live
+PIIND,PI Industries Ltd.,Chemicals,EQ,INE603J01030,PIIND.NS,False,False,2026-09-11,nse_live
+PINELABS,Pine Labs Ltd.,Financial Services,EQ,INE15B701018,PINELABS.NS,True,False,2026-09-11,nse_live
+PIRAMALFIN,Piramal Finance Ltd.,Financial Services,EQ,INE202B01038,PIRAMALFIN.NS,True,False,2026-09-11,nse_live
+PNB,Punjab National Bank,Financial Services,EQ,INE160A01022,PNB.NS,True,False,2026-09-11,nse_live
+PNBHOUSING,PNB Housing Finance Ltd.,Financial Services,EQ,INE572E01012,PNBHOUSING.NS,True,False,2026-09-11,nse_live
+POLICYBZR,PB Fintech Ltd.,Financial Services,EQ,INE417T01026,POLICYBZR.NS,True,False,2026-09-11,nse_live
+POLYCAB,Polycab India Ltd.,Capital Goods,EQ,INE455K01017,POLYCAB.NS,False,False,2026-09-11,nse_live
+POLYMED,Poly Medicure Ltd.,Healthcare,EQ,INE205C01021,POLYMED.NS,False,False,2026-09-11,nse_live
+POONAWALLA,Poonawalla Fincorp Ltd.,Financial Services,EQ,INE511C01022,POONAWALLA.NS,True,False,2026-09-11,nse_live
+POWERGRID,Power Grid Corporation of India Ltd.,Power,EQ,INE752E01010,POWERGRID.NS,False,False,2026-09-11,nse_live
+POWERINDIA,Hitachi Energy India Ltd.,Capital Goods,EQ,INE07Y701011,POWERINDIA.NS,False,False,2026-09-11,nse_live
+PPLPHARMA,Piramal Pharma Ltd.,Healthcare,EQ,INE0DK501011,PPLPHARMA.NS,False,False,2026-09-11,nse_live
+PREMIERENE,Premier Energies Ltd.,Capital Goods,EQ,INE0BS701011,PREMIERENE.NS,False,False,2026-09-11,nse_live
+PRESTIGE,Prestige Estates Projects Ltd.,Realty,EQ,INE811K01011,PRESTIGE.NS,False,False,2026-09-11,nse_live
+PTCIL,PTC Industries Ltd.,Capital Goods,EQ,INE596F01018,PTCIL.NS,False,False,2026-09-11,nse_live
+PVRINOX,PVR INOX Ltd.,Media Entertainment & Publication,EQ,INE191H01014,PVRINOX.NS,False,False,2026-09-11,nse_live
+PWL,Physicswallah Ltd.,Consumer Services,EQ,INE0LP301011,PWL.NS,False,False,2026-09-11,nse_live
+RADICO,Radico Khaitan Ltd,Fast Moving Consumer Goods,EQ,INE944F01028,RADICO.NS,False,False,2026-09-11,nse_live
+RAILTEL,Railtel Corporation Of India Ltd.,Telecommunication,EQ,INE0DD101019,RAILTEL.NS,False,False,2026-09-11,nse_live
+RAINBOW,Rainbow Childrens Medicare Ltd.,Healthcare,EQ,INE961O01016,RAINBOW.NS,False,False,2026-09-11,nse_live
+RAMCOCEM,The Ramco Cements Ltd.,Construction Materials,EQ,INE331A01037,RAMCOCEM.NS,False,False,2026-09-11,nse_live
+RBLBANK,RBL Bank Ltd.,Financial Services,EQ,INE976G01028,RBLBANK.NS,True,False,2026-09-11,nse_live
+RECLTD,REC Ltd.,Financial Services,EQ,INE020B01018,RECLTD.NS,True,False,2026-09-11,nse_live
+REDINGTON,Redington Ltd.,Services,EQ,INE891D01026,REDINGTON.NS,False,False,2026-09-11,nse_live
+RELIANCE,Reliance Industries Ltd.,Oil Gas & Consumable Fuels,EQ,INE002A01018,RELIANCE.NS,False,False,2026-09-11,nse_live
+RHIM,RHI MAGNESITA INDIA LTD.,Capital Goods,EQ,INE743M01012,RHIM.NS,False,False,2026-09-11,nse_live
+RITES,RITES Ltd.,Construction,EQ,INE320J01015,RITES.NS,False,False,2026-09-11,nse_live
+RKFORGE,Ramkrishna Forgings Ltd.,Automobile and Auto Components,EQ,INE399G01023,RKFORGE.NS,False,False,2026-09-11,nse_live
+RPOWER,Reliance Power Ltd.,Power,EQ,INE614G01033,RPOWER.NS,False,False,2026-09-11,nse_live
+RRKABEL,R R Kabel Ltd.,Capital Goods,EQ,INE777K01022,RRKABEL.NS,False,False,2026-09-11,nse_live
+RVNL,Rail Vikas Nigam Ltd.,Construction,EQ,INE415G01027,RVNL.NS,False,False,2026-09-11,nse_live
+SAGILITY,Sagility Ltd.,Information Technology,EQ,INE0W2G01015,SAGILITY.NS,False,False,2026-09-11,nse_live
+SAIL,Steel Authority of India Ltd.,Metals & Mining,EQ,INE114A01011,SAIL.NS,False,False,2026-09-11,nse_live
+SAILIFE,Sai Life Sciences Ltd.,Healthcare,EQ,INE570L01029,SAILIFE.NS,False,False,2026-09-11,nse_live
+SAMMAANCAP,Sammaan Capital Ltd.,Financial Services,EQ,INE148I01020,SAMMAANCAP.NS,True,False,2026-09-11,nse_live
+SAPPHIRE,Sapphire Foods India Ltd.,Consumer Services,EQ,INE806T01020,SAPPHIRE.NS,False,False,2026-09-11,nse_live
+SARDAEN,Sarda Energy and Minerals Ltd.,Metals & Mining,EQ,INE385C01021,SARDAEN.NS,False,False,2026-09-11,nse_live
+SAREGAMA,Saregama India Ltd,Media Entertainment & Publication,EQ,INE979A01025,SAREGAMA.NS,False,False,2026-09-11,nse_live
+SBFC,SBFC Finance Ltd.,Financial Services,EQ,INE423Y01016,SBFC.NS,True,False,2026-09-11,nse_live
+SBICARD,SBI Cards and Payment Services Ltd.,Financial Services,EQ,INE018E01016,SBICARD.NS,True,False,2026-09-11,nse_live
+SBILIFE,SBI Life Insurance Company Ltd.,Financial Services,EQ,INE123W01016,SBILIFE.NS,True,False,2026-09-11,nse_live
+SBIN,State Bank of India,Financial Services,EQ,INE062A01020,SBIN.NS,True,False,2026-09-11,nse_live
+SCHAEFFLER,Schaeffler India Ltd.,Automobile and Auto Components,EQ,INE513A01022,SCHAEFFLER.NS,False,False,2026-09-11,nse_live
+SCHNEIDER,Schneider Electric Infrastructure Ltd.,Capital Goods,EQ,INE839M01018,SCHNEIDER.NS,False,False,2026-09-11,nse_live
+SCI,Shipping Corporation of India Ltd.,Services,EQ,INE109A01011,SCI.NS,False,False,2026-09-11,nse_live
+SHREECEM,Shree Cement Ltd.,Construction Materials,EQ,INE070A01015,SHREECEM.NS,False,False,2026-09-11,nse_live
+SHRIRAMFIN,Shriram Finance Ltd.,Financial Services,EQ,INE721A01047,SHRIRAMFIN.NS,True,False,2026-09-11,nse_live
+SHYAMMETL,Shyam Metalics and Energy Ltd.,Capital Goods,EQ,INE810G01011,SHYAMMETL.NS,False,False,2026-09-11,nse_live
+SIEMENS,Siemens Ltd.,Capital Goods,EQ,INE003A01024,SIEMENS.NS,False,False,2026-09-11,nse_live
+SIGNATURE,Signatureglobal (India) Ltd.,Realty,EQ,INE903U01023,SIGNATURE.NS,False,False,2026-09-11,nse_live
+SJVN,SJVN Ltd.,Power,EQ,INE002L01015,SJVN.NS,False,False,2026-09-11,nse_live
+SOBHA,Sobha Ltd.,Realty,EQ,INE671H01015,SOBHA.NS,False,False,2026-09-11,nse_live
+SOLARINDS,Solar Industries India Ltd.,Chemicals,EQ,INE343H01029,SOLARINDS.NS,False,False,2026-09-11,nse_live
+SONACOMS,Sona BLW Precision Forgings Ltd.,Automobile and Auto Components,EQ,INE073K01018,SONACOMS.NS,False,False,2026-09-11,nse_live
+SONATSOFTW,Sonata Software Ltd.,Information Technology,EQ,INE269A01021,SONATSOFTW.NS,False,False,2026-09-11,nse_live
+SPLPETRO,Supreme Petrochem Ltd.,Chemicals,EQ,INE663A01033,SPLPETRO.NS,False,False,2026-09-11,nse_live
+SRF,SRF Ltd.,Chemicals,EQ,INE647A01010,SRF.NS,False,False,2026-09-11,nse_live
+STARHEALTH,Star Health and Allied Insurance Company Ltd.,Financial Services,EQ,INE575P01011,STARHEALTH.NS,True,False,2026-09-11,nse_live
+SUMICHEM,Sumitomo Chemical India Ltd.,Chemicals,EQ,INE258G01013,SUMICHEM.NS,False,False,2026-09-11,nse_live
+SUNDARMFIN,Sundaram Finance Ltd.,Financial Services,EQ,INE660A01013,SUNDARMFIN.NS,True,False,2026-09-11,nse_live
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,Healthcare,EQ,INE044A01036,SUNPHARMA.NS,False,False,2026-09-11,nse_live
+SUNTV,Sun TV Network Ltd.,Media Entertainment & Publication,EQ,INE424H01027,SUNTV.NS,False,False,2026-09-11,nse_live
+SUPREMEIND,Supreme Industries Ltd.,Capital Goods,EQ,INE195A01028,SUPREMEIND.NS,False,False,2026-09-11,nse_live
+SUZLON,Suzlon Energy Ltd.,Capital Goods,EQ,INE040H01021,SUZLON.NS,False,False,2026-09-11,nse_live
+SWANCORP,Swan Corp Ltd.,Chemicals,EQ,INE665A01038,SWANCORP.NS,False,False,2026-09-11,nse_live
+SWIGGY,Swiggy Ltd.,Consumer Services,EQ,INE00H001014,SWIGGY.NS,False,False,2026-09-11,nse_live
+SYNGENE,Syngene International Ltd.,Healthcare,EQ,INE398R01022,SYNGENE.NS,False,False,2026-09-11,nse_live
+SYRMA,Syrma SGS Technology Ltd.,Capital Goods,EQ,INE0DYJ01015,SYRMA.NS,False,False,2026-09-11,nse_live
+TARIL,Transformers And Rectifiers (India) Ltd.,Capital Goods,EQ,INE763I01026,TARIL.NS,False,False,2026-09-11,nse_live
+TATACAP,Tata Capital Ltd.,Financial Services,EQ,INE976I01016,TATACAP.NS,True,False,2026-09-11,nse_live
+TATACHEM,Tata Chemicals Ltd.,Chemicals,EQ,INE092A01019,TATACHEM.NS,False,False,2026-09-11,nse_live
+TATACOMM,Tata Communications Ltd.,Telecommunication,EQ,INE151A01013,TATACOMM.NS,False,False,2026-09-11,nse_live
+TATACONSUM,Tata Consumer Products Ltd.,Fast Moving Consumer Goods,EQ,INE192A01025,TATACONSUM.NS,False,False,2026-09-11,nse_live
+TATAELXSI,Tata Elxsi Ltd.,Information Technology,EQ,INE670A01012,TATAELXSI.NS,False,False,2026-09-11,nse_live
+TATAINVEST,Tata Investment Corporation Ltd.,Financial Services,EQ,INE672A01026,TATAINVEST.NS,True,False,2026-09-11,nse_live
+TATAPOWER,Tata Power Co. Ltd.,Power,EQ,INE245A01021,TATAPOWER.NS,False,False,2026-09-11,nse_live
+TATASTEEL,Tata Steel Ltd.,Metals & Mining,EQ,INE081A01020,TATASTEEL.NS,False,False,2026-09-11,nse_live
+TATATECH,Tata Technologies Ltd.,Information Technology,EQ,INE142M01025,TATATECH.NS,False,False,2026-09-11,nse_live
+TBOTEK,TBO Tek Ltd.,Consumer Services,EQ,INE673O01025,TBOTEK.NS,False,False,2026-09-11,nse_live
+TCS,Tata Consultancy Services Ltd.,Information Technology,EQ,INE467B01029,TCS.NS,False,False,2026-09-11,nse_live
+TECHM,Tech Mahindra Ltd.,Information Technology,EQ,INE669C01036,TECHM.NS,False,False,2026-09-11,nse_live
+TECHNOE,Techno Electric & Engineering Company Ltd.,Construction,EQ,INE285K01026,TECHNOE.NS,False,False,2026-09-11,nse_live
+TEGA,Tega Industries Ltd.,Capital Goods,EQ,INE011K01018,TEGA.NS,False,False,2026-09-11,nse_live
+TEJASNET,Tejas Networks Ltd.,Telecommunication,EQ,INE010J01012,TEJASNET.NS,False,False,2026-09-11,nse_live
+TENNIND,Tenneco Clean Air India Ltd.,Automobile and Auto Components,EQ,INE19RI01016,TENNIND.NS,False,False,2026-09-11,nse_live
+THELEELA,Leela Palaces Hotels & Resorts Ltd.,Consumer Services,EQ,INE0AQ201015,THELEELA.NS,False,False,2026-09-11,nse_live
+THERMAX,Thermax Ltd.,Capital Goods,EQ,INE152A01029,THERMAX.NS,False,False,2026-09-11,nse_live
+TIINDIA,Tube Investments of India Ltd.,Automobile and Auto Components,EQ,INE974X01010,TIINDIA.NS,False,False,2026-09-11,nse_live
+TIMKEN,Timken India Ltd.,Capital Goods,EQ,INE325A01013,TIMKEN.NS,False,False,2026-09-11,nse_live
+TITAGARH,Titagarh Rail Systems Ltd.,Capital Goods,EQ,INE615H01020,TITAGARH.NS,False,False,2026-09-11,nse_live
+TITAN,Titan Company Ltd.,Consumer Durables,EQ,INE280A01028,TITAN.NS,False,False,2026-09-11,nse_live
+TMCV,Tata Motors Ltd.,Capital Goods,EQ,INE1TAE01010,TMCV.NS,False,False,2026-09-11,nse_live
+TMPV,Tata Motors Passenger Vehicles Ltd.,Automobile and Auto Components,EQ,INE155A01022,TMPV.NS,False,False,2026-09-11,nse_live
+TORNTPHARM,Torrent Pharmaceuticals Ltd.,Healthcare,EQ,INE685A01028,TORNTPHARM.NS,False,False,2026-09-11,nse_live
+TORNTPOWER,Torrent Power Ltd.,Power,EQ,INE813H01021,TORNTPOWER.NS,False,False,2026-09-11,nse_live
+TRAVELFOOD,Travel Food Services Ltd.,Consumer Services,EQ,INE103V01028,TRAVELFOOD.NS,False,False,2026-09-11,nse_live
+TRENT,Trent Ltd.,Consumer Services,EQ,INE849A01020,TRENT.NS,False,False,2026-09-11,nse_live
+TRIDENT,Trident Ltd.,Textiles,EQ,INE064C01022,TRIDENT.NS,False,False,2026-09-11,nse_live
+TRITURBINE,Triveni Turbine Ltd.,Capital Goods,EQ,INE152M01016,TRITURBINE.NS,False,False,2026-09-11,nse_live
+TTML,Tata Teleservices (Maharashtra) Ltd.,Telecommunication,EQ,INE517B01013,TTML.NS,False,False,2026-09-11,nse_live
+TVSMOTOR,TVS Motor Company Ltd.,Automobile and Auto Components,EQ,INE494B01023,TVSMOTOR.NS,False,False,2026-09-11,nse_live
+UBL,United Breweries Ltd.,Fast Moving Consumer Goods,EQ,INE686F01025,UBL.NS,False,False,2026-09-11,nse_live
+UCOBANK,UCO Bank,Financial Services,EQ,INE691A01018,UCOBANK.NS,True,False,2026-09-11,nse_live
+ULTRACEMCO,UltraTech Cement Ltd.,Construction Materials,EQ,INE481G01011,ULTRACEMCO.NS,False,False,2026-09-11,nse_live
+UNIONBANK,Union Bank of India,Financial Services,EQ,INE692A01016,UNIONBANK.NS,True,False,2026-09-11,nse_live
+UNITDSPR,United Spirits Ltd.,Fast Moving Consumer Goods,EQ,INE854D01024,UNITDSPR.NS,False,False,2026-09-11,nse_live
+UNOMINDA,UNO Minda Ltd.,Automobile and Auto Components,EQ,INE405E01023,UNOMINDA.NS,False,False,2026-09-11,nse_live
+UPL,UPL Ltd.,Chemicals,EQ,INE628A01036,UPL.NS,False,False,2026-09-11,nse_live
+URBANCO,Urban Company Ltd.,Consumer Services,EQ,INE0CAZ01013,URBANCO.NS,False,False,2026-09-11,nse_live
+USHAMART,Usha Martin Ltd.,Capital Goods,EQ,INE228A01035,USHAMART.NS,False,False,2026-09-11,nse_live
+UTIAMC,UTI Asset Management Company Ltd.,Financial Services,EQ,INE094J01016,UTIAMC.NS,True,False,2026-09-11,nse_live
+VBL,Varun Beverages Ltd.,Fast Moving Consumer Goods,EQ,INE200M01039,VBL.NS,False,False,2026-09-11,nse_live
+VEDL,Vedanta Ltd.,Metals & Mining,EQ,INE205A01025,VEDL.NS,False,False,2026-09-11,nse_live
+VIJAYA,Vijaya Diagnostic Centre Ltd.,Healthcare,EQ,INE043W01024,VIJAYA.NS,False,False,2026-09-11,nse_live
+VMM,Vishal Mega Mart Ltd.,Consumer Services,EQ,INE01EA01019,VMM.NS,False,False,2026-09-11,nse_live
+VOLTAS,Voltas Ltd.,Consumer Durables,EQ,INE226A01021,VOLTAS.NS,False,False,2026-09-11,nse_live
+VTL,Vardhman Textiles Ltd.,Textiles,EQ,INE825A01020,VTL.NS,False,False,2026-09-11,nse_live
+WAAREEENER,Waaree Energies Ltd.,Capital Goods,EQ,INE377N01017,WAAREEENER.NS,False,False,2026-09-11,nse_live
+WELCORP,Welspun Corp Ltd.,Capital Goods,EQ,INE191B01025,WELCORP.NS,False,False,2026-09-11,nse_live
+WELSPUNLIV,Welspun Living Ltd.,Textiles,EQ,INE192B01031,WELSPUNLIV.NS,False,False,2026-09-11,nse_live
+WHIRLPOOL,Whirlpool of India Ltd.,Consumer Durables,EQ,INE716A01013,WHIRLPOOL.NS,False,False,2026-09-11,nse_live
+WIPRO,Wipro Ltd.,Information Technology,EQ,INE075A01022,WIPRO.NS,False,False,2026-09-11,nse_live
+WOCKPHARMA,Wockhardt Ltd.,Healthcare,EQ,INE049B01025,WOCKPHARMA.NS,False,False,2026-09-11,nse_live
+YESBANK,Yes Bank Ltd.,Financial Services,EQ,INE528G01035,YESBANK.NS,True,False,2026-09-11,nse_live
+ZEEL,Zee Entertainment Enterprises Ltd.,Media Entertainment & Publication,EQ,INE256A01028,ZEEL.NS,False,False,2026-09-11,nse_live
+ZENSARTECH,Zensar Technolgies Ltd.,Information Technology,EQ,INE520A01027,ZENSARTECH.NS,False,False,2026-09-11,nse_live
+ZENTEC,Zen Technologies Ltd.,Capital Goods,EQ,INE251B01027,ZENTEC.NS,False,False,2026-09-11,nse_live
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Ltd.,Automobile and Auto Components,EQ,INE342J01019,ZFCVINDIA.NS,False,False,2026-09-11,nse_live
+ZYDUSLIFE,Zydus Lifesciences Ltd.,Healthcare,EQ,INE010B01027,ZYDUSLIFE.NS,False,False,2026-09-11,nse_live
+ZYDUSWELL,Zydus Wellness Ltd.,Fast Moving Consumer Goods,EQ,INE768C01028,ZYDUSWELL.NS,False,False,2026-09-11,nse_live

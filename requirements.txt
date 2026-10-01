@@ -1,0 +1,10 @@
+yfinance>=0.2.40
+pandas>=2.0.0
+numpy>=1.24.0
+# NSE ownership/pledging endpoints (src/data/fetch_ownership.py)
+requests>=2.31.0
+# Spearman rank correlation for the backtest Information Coefficient:
+# pandas' Series.corr(method="spearman") delegates to scipy.stats.spearmanr.
+scipy>=1.10.0
+# Test suite
+pytest>=7.0.0
